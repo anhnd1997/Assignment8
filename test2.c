@@ -14,5 +14,6 @@ int giam(int a[],int n)
             }
         }
     printf(" %d",a[i]);
+printf("1%d",a[i]);
     }
 }
