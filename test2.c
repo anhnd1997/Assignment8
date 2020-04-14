@@ -13,9 +13,5 @@ int giam(int a[],int n)
                 a[j] = tg;
             }
         }
-
-/*aaaaa*/
-    printf(" %d",a[i]);
-printf("1%d",a[i]);
     }
 }
