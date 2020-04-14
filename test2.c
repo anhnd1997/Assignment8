@@ -13,5 +13,7 @@ int giam(int a[],int n)
                 a[j] = tg;
             }
         }
+        /*test1*/
+        printf("a[%d]=%d",i,a[i]);
     }
 }
